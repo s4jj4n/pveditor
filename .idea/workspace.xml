@@ -2,9 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f434db0-cf45-4bf2-b496-24fb1b1acb29" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckeditor/plugins/icons.png" afterPath="$PROJECT_DIR$/ckeditor/plugins/icons.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckeditor/plugins/icons_hidpi.png" afterPath="$PROJECT_DIR$/ckeditor/plugins/icons_hidpi.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckeditor/skins/moono-dark/icons.png" afterPath="$PROJECT_DIR$/ckeditor/skins/moono-dark/icons.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckeditor/skins/moono-dark/icons_hidpi.png" afterPath="$PROJECT_DIR$/ckeditor/skins/moono-dark/icons_hidpi.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckeditor/build-config.js" afterPath="$PROJECT_DIR$/ckeditor/build-config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckeditor/ckeditor.js" afterPath="$PROJECT_DIR$/ckeditor/ckeditor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckeditor/lang/en.js" afterPath="$PROJECT_DIR$/ckeditor/lang/en.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckeditor/skins/moono-dark/editor.css" afterPath="$PROJECT_DIR$/ckeditor/skins/moono-dark/editor.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckeditor/skins/moono-dark/editor_gecko.css" afterPath="$PROJECT_DIR$/ckeditor/skins/moono-dark/editor_gecko.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckeditor/skins/moono-dark/editor_ie.css" afterPath="$PROJECT_DIR$/ckeditor/skins/moono-dark/editor_ie.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckeditor/skins/moono-dark/editor_ie7.css" afterPath="$PROJECT_DIR$/ckeditor/skins/moono-dark/editor_ie7.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckeditor/skins/moono-dark/editor_ie8.css" afterPath="$PROJECT_DIR$/ckeditor/skins/moono-dark/editor_ie8.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckeditor/skins/moono-dark/editor_iequirks.css" afterPath="$PROJECT_DIR$/ckeditor/skins/moono-dark/editor_iequirks.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,8 +34,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="38" column="120" lean-forward="true" selection-start-line="38" selection-start-column="89" selection-end-line="38" selection-end-column="120" />
+            <state relative-caret-position="320">
+              <caret line="31" column="125" lean-forward="false" selection-start-line="31" selection-start-column="125" selection-end-line="31" selection-end-column="125" />
               <folding />
             </state>
           </provider>
@@ -44,7 +55,7 @@
         <entry file="file://$PROJECT_DIR$/ckeditor/config.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -252,12 +263,12 @@
       <updated>1497263489811</updated>
       <workItem from="1497263491416" duration="156000" />
       <workItem from="1497263734853" duration="8479000" />
-      <workItem from="1501143331716" duration="2008000" />
+      <workItem from="1501143331716" duration="3311000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10643000" />
+    <option name="totallyTimeSpent" value="11946000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1985" y="24" width="1855" height="1056" extended-state="6" />
@@ -412,7 +423,7 @@
     <entry file="file://$PROJECT_DIR$/ckeditor/config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -462,8 +473,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="38" column="120" lean-forward="true" selection-start-line="38" selection-start-column="89" selection-end-line="38" selection-end-column="120" />
+        <state relative-caret-position="320">
+          <caret line="31" column="125" lean-forward="false" selection-start-line="31" selection-start-column="125" selection-end-line="31" selection-end-column="125" />
           <folding />
         </state>
       </provider>
