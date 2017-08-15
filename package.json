@@ -1,6 +1,6 @@
 {
   "name": "pveditor",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "ckeditor integration for angularJS",
   "main": "index.js",
   "scripts": {
